@@ -7,6 +7,6 @@
 <body>
 <h1>Java 2 Kirkwood Tuesday Night Calculators</h1>
 <br/>
-<a href="convertDistance">Your Name</a>
+<a href="convert-distance">Nik's Distance Calculator</a>
 </body>
 </html>
